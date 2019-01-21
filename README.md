@@ -56,3 +56,6 @@ func alertOdd(num int) error {
 	return fmt.Errorf("number %d is odd", num)
 }
 ```
+
+## License
+[MIT](https://github.com/y-ogura/queue/blob/master/LICENSE)
