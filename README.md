@@ -6,13 +6,13 @@ The queue is a queue processing library for golang.
 ## Getting Started
 
 ### Install
-```
+```bash
 go get -u github.com/y-ogura/queue
 ```
 
 ### Quick Start
 
-```
+```go
 package main
 
 import (
