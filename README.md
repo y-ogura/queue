@@ -1,6 +1,12 @@
 # queue
 The queue is a queue processing library for golang.
 
+[![Sourcegraph](https://sourcegraph.com/github.com/y-ogura/queue/-/badge.svg?style=flat-square)](https://sourcegraph.com/github.com/y-ogura/queue?badge)
+[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/y-ogura/queue)
+[![Build Status](http://img.shields.io/travis/y-ogura/queue.svg?style=flat-square)](https://travis-ci.org/y-ogura/queue)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/y-ogura/queue/master/LICENSE)
+
+
 ## Overview
 
 ## Getting Started
